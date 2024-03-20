@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy JJ Mendez, un apasionado estudiante de desarrollo de software en busca de nuevas oportunidades para aprender y crecer en el mundo de la tecnología.<br><br>Actualmente estoy enfocado en mejorar mis habilidades en desarrollo web, con experiencia en lenguajes como PHP y Laravel. <br><br>Me encanta trabajar en proyectos desafiantes que me permitan aplicar mis conocimientos y desarrollar soluciones creativas.
+Hello! I am JJ Mendez, a passionate software development student looking for new opportunities to learn and grow in the world of technology.<br><br>I am currently focused on improving my skills in web development, with experience in languages such as PHP and Laravel. I would love to work on challenging projects that allow me to apply my knowledge and develop creative solutions.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevJJMendez&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
